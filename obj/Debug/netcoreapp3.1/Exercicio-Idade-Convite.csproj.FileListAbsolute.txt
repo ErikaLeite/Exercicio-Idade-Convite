@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\bin\Debug\netcoreapp3.1\Exercicio-Idade-Convite.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\bin\Debug\netcoreapp3.1\Exercicio-Idade-Convite.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\bin\Debug\netcoreapp3.1\Exercicio-Idade-Convite.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\bin\Debug\netcoreapp3.1\Exercicio-Idade-Convite.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\bin\Debug\netcoreapp3.1\Exercicio-Idade-Convite.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\bin\Debug\netcoreapp3.1\Exercicio-Idade-Convite.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\obj\Debug\netcoreapp3.1\Exercicio-Idade-Convite.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\obj\Debug\netcoreapp3.1\Exercicio-Idade-Convite.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\obj\Debug\netcoreapp3.1\Exercicio-Idade-Convite.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\obj\Debug\netcoreapp3.1\Exercicio-Idade-Convite.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\obj\Debug\netcoreapp3.1\Exercicio-Idade-Convite.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\obj\Debug\netcoreapp3.1\Exercicio-Idade-Convite.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Exercicio-Idade-Convite\obj\Debug\netcoreapp3.1\Exercicio-Idade-Convite.genruntimeconfig.cache
